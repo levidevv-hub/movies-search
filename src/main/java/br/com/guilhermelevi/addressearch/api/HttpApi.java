@@ -8,7 +8,7 @@ import java.net.http.HttpResponse;
 
 public class HttpApi {
 
-    private static final String API_KEY = "***REMOVED***";
+    private static final String API_KEY = "831e7cc1";
     private static final String BASE_URL = "http://www.omdbapi.com/?t=";
 
     private final HttpClient client;
